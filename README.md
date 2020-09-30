@@ -16,7 +16,7 @@ Example:
 [5] http://throwbin.io/OpuzyEk - FINAL CREATED
 
 
-#get navmenu here: https://github.com/zoony1337/NavMenu
+Get navmenu here: https://github.com/zoony1337/NavMenu
 
 You could send the last link created and they'd view the 4th,3rd,2nd etc to view your original message, this can be done in bulk, and depending how far people go, you can waste hella time just to put a rickroll on the end or sum.
 This works with throwbin and privnote - bigger services like ratelimit properly discourage automation of their services whereas these have modules and no ratelimits it seems...
